@@ -1,4 +1,4 @@
-# Xtend Export Feature Analysis
+# Xtend Export Commentary
 
 ## Attention to Operational Aspects
 Considering the nature of the challenge as expressed in the instructions as *"Please take this as an opportunity to demonstrate the best of your abilities."*, I decided to highlight my intrinsic attention to the full breadth of operational aspects that goes into any system of consequence. 
